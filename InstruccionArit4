@@ -1,5 +1,5 @@
 if (x [i + 2]> x [i-1]) a = z * 3 + y;
-de lo contrario a = 2;
+    else  a = 2;
 
     t0 = i-1
     t1 = x [t0]
