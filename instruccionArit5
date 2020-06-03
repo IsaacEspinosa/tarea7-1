@@ -1,0 +1,17 @@
+while (x [i + 2]> x [i-1]) {
+si (y <3) y = 1;
+de lo contrario y = 0;
+}
+
+L2: t0 = i-1
+    t1 = x [t0]
+    t2 = i + 2
+    t3 = x [t2]
+    si t3> t1 pasa a L0
+    ir a L1
+L0: si y <3 pasa a L3
+    ir a L4
+L3: y = 1
+    ir a L5
+L4: y = 0
+L5: ir a L2
